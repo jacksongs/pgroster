@@ -1,45 +1,48 @@
-name,outlet
-Andrew Greene,ABC
-Anna Henderson,ABC
-Eliza Borello,ABC
-Francis Keany,ABC
-Jane Norman,ABC
-Julie Doyle,ABC
-Lucy Barbour,ABC
-Matthew Doran,ABC
-Naomi Woodley,ABC
-Stephanie Anderson,ABC
-Susan McDonald,ABC
-Tom Iggulden,ABC
-Fergus Hunter,Fairfax
-Gareth Hutchens,Fairfax
-Heath Aston,Fairfax
-James Massola,Fairfax
-Jane Lee,Fairfax
-Judith Ireland,Fairfax
-Lisa Cox,Fairfax
-Mark Kenny,Fairfax
-Matthew Knott,Fairfax
-Nicole Hasham,Fairfax
-Peter Martin,Fairfax
-Stephanie Peatling,Fairfax
-Fleur Anderson,Financial Review
-Jacob Greber,Financial Review
-Laura Tingle,Financial Review
-Phillip Coorey,Financial Review
-Primrose Riordan,Financial Review
-Brendan Nicholson,The Australian
-David Crowe,The Australian
-David Uren,The Australian
-Dennis Shanahan,The Australian
-Jared Owens,The Australian
-Joe Kelly,The Australian
-Phillip Hudson,The Australian
-Rosie Lewis,The Australian
-Sarah Martin,The Australian
-Sid Maher,The Australian
-Stefanie Balogh,The Australian
-Daniel Hurst,The Guardian
-Katharine Murphy,The Guardian
-Shalailah Medhora,The Guardian
-Lenore Taylor,The Guardian
+name,outlet,twitter
+Andrew Greene,ABC,andrewbgreene
+Anna Henderson,ABC,annajhenderson
+Eliza Borello,ABC,ElizaBorrello
+Francis Keany,ABC,redneckninja
+Jane Norman,ABC,janeenorman
+Julie Doyle,ABC,JDoyle73
+Lucy Barbour,ABC,lucybarbour
+Matthew Doran,ABC,MattDoran91
+Naomi Woodley,ABC,naomiwoodley
+Stephanie Anderson,ABC,stephanieando
+Susan McDonald,ABC,McDonaldSusan
+Tom Iggulden,ABC,tomiggulden
+Bevan Shields,Fairfax,BevanShields
+David Wroe,Fairfax,davidwroe
+Fergus Hunter,Fairfax,fergushunter
+Gareth Hutchens,Fairfax,grhutchens
+Heath Aston,Fairfax,HeathJAston
+James Massola,Fairfax,jamesmassola
+Jane Lee,Fairfax,janesylee
+Judith Ireland,Fairfax,CanberraCamper
+Lisa Cox,Fairfax,_LisaMCox
+Mark Kenny,Fairfax,markgkenny
+Matthew Knott,Fairfax,KnottMatthew
+Nicole Hasham,Fairfax,nicole_hasham
+Peter Martin,Fairfax,1petermartin
+Stephanie Peatling,Fairfax,srpeatling
+Fleur Anderson,Financial Review,fleur_anderson
+Jacob Greber,Financial Review,jacobgreber
+Laura Tingle,Financial Review,latingle
+Phillip Coorey,Financial Review,PhillipCoorey
+Primrose Riordan,Financial Review,primroseriordan
+Brendan Nicholson,The Australian,
+David Crowe,The Australian,CroweDM
+David Uren,The Australian,
+Dennis Shanahan,The Australian,
+Jared Owens,The Australian,jaredowens
+Joe Kelly,The Australian,
+Phillip Hudson,The Australian,PhillipMHudson
+Rosie Lewis,The Australian,rosieslewis
+Sarah Martin,The Australian,msmarto
+Sid Maher,The Australian,sidmaher
+Stefanie Balogh,The Australian,stefaniebalogh
+Daniel Hurst,The Guardian,danielhurstbne
+Gabrielle Chan,The Guardian,gabriellechan
+Katharine Murphy,The Guardian,murpharoo
+Lenore Taylor,The Guardian,lenoretaylor
+Shalailah Medhora,The Guardian,shalailah
